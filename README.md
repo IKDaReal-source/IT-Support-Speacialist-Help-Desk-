@@ -1,4 +1,4 @@
-<h1>Hi, I'm IK Ogbeifun, an <a href="https://www.linkedin.com/in/eseosa-ogbeifun-a78415424/">IT Professional</a>!</h1>
+<h1>Hi, I'm IKponmwosa Ogbeifun, an <a href="https://www.linkedin.com/in/eseosa-ogbeifun-a78415424/">IT Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
